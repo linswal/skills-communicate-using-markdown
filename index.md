@@ -7,3 +7,7 @@
 ``` python
 msg = "Hello, world!"
 ```
+
+- [x] Create a task list using Markdown
+- [x] Follow task list syntax
+- [ ] Finish this exercise
